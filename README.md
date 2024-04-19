@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=taozhi8833998&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998&theme=onedark" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=dtjager&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dtjager&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=dtjager&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=dtjager&theme=onedark" />
 </div>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dtjager&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Snake animation](https://raw.githubusercontent.com/dtjager/dtjager/output/github-contribution-grid-snake-dark.svg)
 
